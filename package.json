@@ -37,7 +37,7 @@
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.7.1",
     "@vercel/analytics": "^1.2.2",
-    "@vercel/og": "^0.6.5",
+    "@vercel/og": "^0.6.8",
     "@vercel/speed-insights": "^1.0.10",
     "@vidstack/react": "^0.6.15",
     "ai": "^3.1.5",
