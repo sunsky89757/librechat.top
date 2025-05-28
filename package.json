@@ -16,7 +16,7 @@
   },
   "homepage": "https://www.librechat.ai",
   "dependencies": {
-    "@calcom/embed-react": "^1.5.2",
+    "@calcom/embed-react": "^1.5.3",
     "@glidejs/glide": "^3.6.0",
     "@headlessui/react": "^2.0.3",
     "@hookform/resolvers": "^3.3.4",
